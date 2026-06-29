@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0083/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 靈王既位申息不憖寧王敗蔡靈侯於呂命申人室實出取蔡之器執事人夾蔡人之軍門命人毋敢徒空出申成公識其子虛未蓄髮命之遣虛三徒出執事人止之虛乘一輚駟告執事人小人幼不能以施器得此車或不能御之以歸命以其策歸執事人許之虛秉策以歸至擊澨又棄其策焉成公懼其又取焉而諄逆之諒為之怒舉邦盡獲汝獨亡得虛不答又為之怒
+  hash: sha256:0e56e5caffcef9709c02e49775ed12af586dfa519e028544a31427f98b758842
+metadata:
+  title: 楚竹書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0083.xml
+hash: sha256:f5972a2983d65b063d2acba0fdf767a6a09d505a262774dc46538864ae43e5db
